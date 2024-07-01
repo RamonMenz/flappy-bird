@@ -23,4 +23,4 @@ pip install -r requirements.txt
 
 5. Use a barra de espaço para fazer o pássaro voar e evitar os canos.
 6. Pressione 'r' para recomeçar o jogo após colidir.
-7. Pressione 'c' para fechar o jogo.
+7. Pressione 'x' para fechar o jogo.
