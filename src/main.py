@@ -1,7 +1,7 @@
 from passaro import Passaro
 from cano import Cano
 from chao import Chao
-from desenhar_tela import desenhar_tela
+from tela import desenhar_tela
 from config import *
 
 

@@ -18,7 +18,7 @@ pip install -r requirements.txt
 4. Execute o jogo com o seguinte comando:
 
    ```bash
-   python main.py
+   python src\main.py
    ```
 
 5. Use a barra de espaço para fazer o pássaro voar e evitar os canos.
